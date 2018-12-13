@@ -1,0 +1,1 @@
+webpackJsonp([71],{WIvm:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={components:{FooterNav:n("ahJ9").a}},o={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("router-view"),this._v(" "),t("FooterNav")],1)},staticRenderFns:[]},s=n("VU/8")(r,o,!1,null,null,null);t.default=s.exports}});
